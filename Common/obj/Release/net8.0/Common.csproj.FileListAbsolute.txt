@@ -1,0 +1,11 @@
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/Common/bin/Release/net8.0/Common.deps.json
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/Common/bin/Release/net8.0/Common.dll
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/Common/bin/Release/net8.0/Common.pdb
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/Common/obj/Release/net8.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/Common/obj/Release/net8.0/Common.AssemblyInfoInputs.cache
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/Common/obj/Release/net8.0/Common.AssemblyInfo.cs
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/Common/obj/Release/net8.0/Common.csproj.CoreCompileInputs.cache
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/Common/obj/Release/net8.0/Common.dll
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/Common/obj/Release/net8.0/refint/Common.dll
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/Common/obj/Release/net8.0/Common.pdb
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/Common/obj/Release/net8.0/ref/Common.dll

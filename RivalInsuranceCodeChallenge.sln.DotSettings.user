@@ -1,0 +1,36 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AKeyVaultPipeline_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fc0a771866df027326763186a6ab756d18ae15563cf371b7d762bce488a33be_003FKeyVaultPipeline_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003APlaywrightTest_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F6d6c5e1d87aedee50ac6ba70438d1dd2d36aa93fa7039acb4c2b9dcfbb_003FPlaywrightTest_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=58c56b00_002Df81e_002D48fd_002Da74f_002Dc8e84271fcf4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Continuous Testing" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;And&gt;
+    &lt;Or&gt;
+      &lt;TestAncestor&gt;
+        &lt;TestId&gt;NUnit3x::2DE37F80-6F1D-421A-8DD0-CAF1B5ED6FD7::net8.0::Tests.TranslateServiceTest&lt;/TestId&gt;
+        &lt;TestId&gt;NUnit3x::2DE37F80-6F1D-421A-8DD0-CAF1B5ED6FD7::net8.0::Tests.ITranslationProviderTest&lt;/TestId&gt;
+        &lt;TestId&gt;NUnit3x::2DE37F80-6F1D-421A-8DD0-CAF1B5ED6FD7::net8.0::Tests.ITranslationProviderFactoryTest&lt;/TestId&gt;
+        &lt;TestId&gt;NUnit3x::2DE37F80-6F1D-421A-8DD0-CAF1B5ED6FD7::net8.0::Tests.ITranslationServiceClientTest&lt;/TestId&gt;
+        &lt;TestId&gt;NUnit3x::2DE37F80-6F1D-421A-8DD0-CAF1B5ED6FD7::net8.0::Tests.TranslationServiceTest&lt;/TestId&gt;
+      &lt;/TestAncestor&gt;
+      &lt;ProjectFile&gt;28D55480-4E60-4572-A578-91DFE2BBFEAC/f:TranslateIntegrationTests.cs&lt;/ProjectFile&gt;
+    &lt;/Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::28D55480-4E60-4572-A578-91DFE2BBFEAC::net8.0::IntegrationTests.TranslateIntegrationTests.TranslateInput_ShouldReturn_TranslatedText&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/And&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f747dd52_002D749d_002D48fa_002D86d8_002D49286900ec93/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TranslateServiceTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::2DE37F80-6F1D-421A-8DD0-CAF1B5ED6FD7::net8.0::Tests.TranslateServiceTest&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::2DE37F80-6F1D-421A-8DD0-CAF1B5ED6FD7::net8.0::Tests.ITranslationProviderTest&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::2DE37F80-6F1D-421A-8DD0-CAF1B5ED6FD7::net8.0::Tests.ITranslationProviderFactoryTest&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::2DE37F80-6F1D-421A-8DD0-CAF1B5ED6FD7::net8.0::Tests.ITranslationServiceClientTest&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::2DE37F80-6F1D-421A-8DD0-CAF1B5ED6FD7::net8.0::Tests.TranslationServiceTest&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;28D55480-4E60-4572-A578-91DFE2BBFEAC/f:TranslateIntegrationTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=0_0020_002D_0020UI_002FTranslationWebApp_002FProperties_002FResources/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=0_0020_002D_0020UI_002FTranslationWebApp_002FProperties_002FResources/@EntryIndexRemoved">True</s:Boolean>
+	<s:String x:Key="/Default/ResxEditorPersonal/DisabledLanguages/@EntryValue"></s:String>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/Initialized/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>

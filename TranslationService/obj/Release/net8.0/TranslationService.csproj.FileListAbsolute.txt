@@ -1,0 +1,17 @@
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/bin/Release/net8.0/TranslationService.deps.json
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/bin/Release/net8.0/TranslationService.dll
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/bin/Release/net8.0/TranslationService.pdb
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/bin/Release/net8.0/Common.dll
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/bin/Release/net8.0/ITranslateService.dll
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/bin/Release/net8.0/Common.pdb
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/bin/Release/net8.0/ITranslateService.pdb
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/obj/Release/net8.0/TranslationService.csproj.AssemblyReference.cache
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/obj/Release/net8.0/TranslationService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/obj/Release/net8.0/TranslationService.AssemblyInfoInputs.cache
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/obj/Release/net8.0/TranslationService.AssemblyInfo.cs
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/obj/Release/net8.0/TranslationService.csproj.CoreCompileInputs.cache
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/obj/Release/net8.0/TranslationService.csproj.CopyComplete
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/obj/Release/net8.0/TranslationService.dll
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/obj/Release/net8.0/refint/TranslationService.dll
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/obj/Release/net8.0/TranslationService.pdb
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/TranslationService/obj/Release/net8.0/ref/TranslationService.dll

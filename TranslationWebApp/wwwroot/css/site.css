@@ -1,0 +1,150 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: linear-gradient(to right, #0F1C3E, #33447C 50%, #0F1C3E);
+}
+
+.header-bar {
+    background-color: #33447C; /* Bootstrap primary color */
+    color: #fff; /* White text */
+    padding: 10px 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Modern font */
+    font-size: 1.5rem; /* Slightly bigger text */
+    text-align: center; /* Center-align the text */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for depth */
+}
+
+.language-selection-wrapper {
+    flex: 1;
+    position: relative;
+    max-width: 200px;
+    height: 300px;
+    overflow: auto;
+    border: 2px solid #8390BC;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 0 16px #040F2F,
+    inset -1px -1px 4px #030f25;
+    background: linear-gradient(to top right, #152242, #243056);
+    color: #fff;
+}
+
+.language {
+    cursor: pointer;
+    margin: 4px 4px 6px;
+    background-color: #5C79F9;
+    border-radius: 4px;
+    padding: 4px 8px;
+    color: #fff;
+    box-shadow: 0 0 4px #1c1f23,
+    inset 0 0 2px #6e9fe3;
+}
+
+.language.selected {
+    background-color: #502EF6;
+}
+
+.language:hover {
+    background-color: #502EF6;
+}
+
+.main-wrapper {
+    display: flex;
+    gap: 2rem; /* Spacing between the two sections */
+    justify-content: space-between; /* Align side by side */
+    align-items: flex-start; /* Align along the top */
+    margin-top: 2rem; /* Optional: Add some spacing from the top */
+    flex-wrap: wrap; /* Stack sections if the container width is too small */
+}
+
+/* Translation Wrapper Styling */
+.translate-wrapper {
+    flex: 2; /* Bigger section compared to language selector */
+    min-width: 400px; /* Minimum width for responsive behavior */
+}
+
+/* Textarea Wrapper Flexbox */
+.textarea-wrapper, .button-wrapper {
+    display: flex; /* Arrange text areas side by side */
+    gap: 1rem; /* Spacing between text areas */
+    justify-content: space-between; /* Spread them evenly */
+    align-items: stretch; /* Make sure both textareas are the same height */
+    width: 100%; /* Take full width of parent */
+    user-select: none;
+}
+
+.button-wrapper {
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.error-message {
+    color: red;
+}
+
+.translate-button {
+    cursor: pointer;
+    box-shadow: 1px 0 16px #040F2F,
+    inset -1px -1px 4px #030f25;
+    background: linear-gradient(to top right, #152242, #243056);
+    color: #fff;
+    border: 2px solid #8390BC;
+    padding: 30px 50px;
+    border-radius: 10px;
+    user-select: none;
+}
+
+.translate-button .spinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid rgba(0, 0, 0, 0.1); /* Light border color */
+    border-top-color: #007bff; /* Accent color */
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    display: none;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* Input and Output Text Areas */
+.input-text,
+.output-text {
+    flex: 1; /* Both text areas take equal width */
+    height: 400px; /* Fixed height for multiline support */
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 4px;
+    resize: vertical; /* Allow resizing for height only */
+    box-shadow: 1px 0 16px #040F2F, /* Outer shadow (primary) */ inset -1px -1px 4px #030f25; /* Inner shadow (secondary) */
+    background: linear-gradient(to top right, #152242, #243056);
+    color: #fff;
+    border: 2px solid #8390BC;
+    outline: none;
+}
+
+.output-text {
+    background-color: #f8f8f8;
+    color: #555;
+}
+

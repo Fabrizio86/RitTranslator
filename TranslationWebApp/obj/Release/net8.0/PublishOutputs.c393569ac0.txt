@@ -1,0 +1,11 @@
+/var/folders/hn/thc4z6yn64j0ybh92776jjg00000gn/T/rider-publish8170757803146918874/TranslationWebApp
+/var/folders/hn/thc4z6yn64j0ybh92776jjg00000gn/T/rider-publish8170757803146918874/appsettings.Development.json
+/var/folders/hn/thc4z6yn64j0ybh92776jjg00000gn/T/rider-publish8170757803146918874/appsettings.json
+/var/folders/hn/thc4z6yn64j0ybh92776jjg00000gn/T/rider-publish8170757803146918874/TranslationWebApp.dll
+/var/folders/hn/thc4z6yn64j0ybh92776jjg00000gn/T/rider-publish8170757803146918874/TranslationWebApp.deps.json
+/var/folders/hn/thc4z6yn64j0ybh92776jjg00000gn/T/rider-publish8170757803146918874/TranslationWebApp.runtimeconfig.json
+/var/folders/hn/thc4z6yn64j0ybh92776jjg00000gn/T/rider-publish8170757803146918874/TranslationWebApp.pdb
+/var/folders/hn/thc4z6yn64j0ybh92776jjg00000gn/T/rider-publish8170757803146918874/Common.dll
+/var/folders/hn/thc4z6yn64j0ybh92776jjg00000gn/T/rider-publish8170757803146918874/ITranslateService.dll
+/var/folders/hn/thc4z6yn64j0ybh92776jjg00000gn/T/rider-publish8170757803146918874/Common.pdb
+/var/folders/hn/thc4z6yn64j0ybh92776jjg00000gn/T/rider-publish8170757803146918874/ITranslateService.pdb

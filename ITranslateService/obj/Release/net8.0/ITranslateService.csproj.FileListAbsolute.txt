@@ -1,0 +1,15 @@
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/bin/Release/net8.0/ITranslateService.deps.json
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/bin/Release/net8.0/ITranslateService.dll
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/bin/Release/net8.0/ITranslateService.pdb
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/bin/Release/net8.0/Common.dll
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/bin/Release/net8.0/Common.pdb
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/obj/Release/net8.0/ITranslateService.csproj.AssemblyReference.cache
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/obj/Release/net8.0/ITranslateService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/obj/Release/net8.0/ITranslateService.AssemblyInfoInputs.cache
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/obj/Release/net8.0/ITranslateService.AssemblyInfo.cs
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/obj/Release/net8.0/ITranslateService.csproj.CoreCompileInputs.cache
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/obj/Release/net8.0/ITranslateService.csproj.CopyComplete
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/obj/Release/net8.0/ITranslateService.dll
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/obj/Release/net8.0/refint/ITranslateService.dll
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/obj/Release/net8.0/ITranslateService.pdb
+/Users/fabriziopaino/RiderProjects/RivalInsuranceCodeChallenge/ITranslateService/obj/Release/net8.0/ref/ITranslateService.dll

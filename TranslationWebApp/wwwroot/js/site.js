@@ -1,0 +1,1 @@
+﻿const translationManager = new TranslationManager(new TranslationRequest());

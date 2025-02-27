@@ -1,0 +1,44 @@
+<changelist name="Uncommitted_changes_before_Update_at_2025-02-27,_12_47 a_m__[Changes]" date="1740646048784" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.RivalInsuranceCodeChallenge/.idea/shelf/Uncommitted_changes_before_Update_at_2025-02-27,_12_47 a_m__[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2025-02-27, 12:47 a.m. [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="TranslationApi/obj/Debug/net8.0/TranslationApi.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="TranslationApi/obj/Debug/net8.0/TranslationApi.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.RivalInsuranceCodeChallenge/.idea/shelf/Uncommitted_changes_before_Update_at_2025-02-27,_12_47 a_m__[Changes]/TranslationApi.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="TranslationApi/obj/Debug/net8.0/TranslationApi.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="TranslationApi/obj/Debug/net8.0/TranslationApi.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.RivalInsuranceCodeChallenge/.idea/shelf/Uncommitted_changes_before_Update_at_2025-02-27,_12_47 a_m__[Changes]/TranslationApi.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Common/obj/Debug/net8.0/Common.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="Common/obj/Debug/net8.0/Common.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.RivalInsuranceCodeChallenge/.idea/shelf/Uncommitted_changes_before_Update_at_2025-02-27,_12_47 a_m__[Changes]/Common.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Tests/obj/Debug/net8.0/Tests.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="Tests/obj/Debug/net8.0/Tests.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.RivalInsuranceCodeChallenge/.idea/shelf/Uncommitted_changes_before_Update_at_2025-02-27,_12_47 a_m__[Changes]/Tests.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Tests/obj/Debug/net8.0/Tests.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Tests/obj/Debug/net8.0/Tests.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.RivalInsuranceCodeChallenge/.idea/shelf/Uncommitted_changes_before_Update_at_2025-02-27,_12_47 a_m__[Changes]/Tests.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="TranslationService/obj/Debug/net8.0/TranslationService.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="TranslationService/obj/Debug/net8.0/TranslationService.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.RivalInsuranceCodeChallenge/.idea/shelf/Uncommitted_changes_before_Update_at_2025-02-27,_12_47 a_m__[Changes]/TranslationService.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="ITranslateService/obj/Debug/net8.0/ITranslateService.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="ITranslateService/obj/Debug/net8.0/ITranslateService.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.RivalInsuranceCodeChallenge/.idea/shelf/Uncommitted_changes_before_Update_at_2025-02-27,_12_47 a_m__[Changes]/ITranslateService.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="TranslationService/obj/Debug/net8.0/TranslationService.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="TranslationService/obj/Debug/net8.0/TranslationService.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.RivalInsuranceCodeChallenge/.idea/shelf/Uncommitted_changes_before_Update_at_2025-02-27,_12_47 a_m__[Changes]/TranslationService.csproj.AssemblyReference.cache" />
+  </binary>
+</changelist>

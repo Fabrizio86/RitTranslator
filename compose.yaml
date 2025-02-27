@@ -1,0 +1,16 @@
+﻿services:
+  translationwebapp:
+    image: translationwebapp
+    build:
+      context: .
+      dockerfile: TranslationWebApp/Dockerfile
+    ports:
+      - "5151:5151" # Maps external port 5151 to the app's port 5151
+
+  translationapi:
+    image: translationapi
+    build:
+      context: .
+      dockerfile: TranslationApi/Dockerfile
+    ports:
+      - "5152:5152" # Maps external port 5152 to the app's port 5152

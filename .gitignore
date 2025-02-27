@@ -1,0 +1,7 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore Playwright-generated files
+.playwright/
+
